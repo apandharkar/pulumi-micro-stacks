@@ -1,4 +1,4 @@
-name: core-infra
+name: network
 runtime:
   name: python
   options:
