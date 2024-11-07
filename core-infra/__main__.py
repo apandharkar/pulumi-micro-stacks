@@ -6,7 +6,7 @@ import pulumi_aws as aws
 config = pulumi.Config()
 
 
-conf = pulumi.Config('ec2')
+conf = pulumi.Config('core-infra')
 
 stack_ref = pulumi.StackReference(f"organization/{conf.require('core-project-name')}/dev")
 
