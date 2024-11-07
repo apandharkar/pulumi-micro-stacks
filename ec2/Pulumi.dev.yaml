@@ -1,0 +1,4 @@
+encryptionsalt: v1:XTYufRmaGno=:v1:iElAkXE+gx/t/kEL:d3HLl62uyq2F3Wl9RodRDHnzmHkaZQ==
+config:
+  aws:region: us-east-1
+  ec2:core-project-name: core-infra
